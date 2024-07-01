@@ -1,4 +1,4 @@
-# Microsoft-365
+# Microsoft-365 Enterprise Administration
 Case project on Administration and Configuration of Microsoft 365 for an enterprise.
 Microsoft 365 Identity and Services Project
 
